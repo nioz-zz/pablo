@@ -1,0 +1,3 @@
+Sitemap: https://nioz-zz.github.io/pablo/sitemap.xml
+User-agent:*
+Disallow:
